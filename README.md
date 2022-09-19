@@ -8,7 +8,7 @@
 
 2) Training on MVTec AD (MVTec Anomaly Detection Dataset):
 
-    https://www.mvtec.com/company/research/datasets/mvtec-ad
+        https://www.mvtec.com/company/research/datasets/mvtec-ad
 
 for anomaly detection task.
 
