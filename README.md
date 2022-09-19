@@ -1,5 +1,10 @@
 # AnoGAN
 
+### GAN generator results example
+
+![image](https://user-images.githubusercontent.com/113569606/191010479-8a515144-83f9-4504-9434-c739e2dcd977.png)
+
+
 ## About The Project
 
 1) Implementation of AnoGAN architecture from `Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery` paper:
