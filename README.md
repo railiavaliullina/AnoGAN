@@ -19,7 +19,7 @@ File to run:
 
     /executor/executor.py 
     
-- After running executor.py, checkpoints for GANs will be restored from `/saved_files/checkpoints/`;
+- After running `executor.py`, checkpoints for GANs will be restored from `/saved_files/checkpoints/`;
 - Checkpoint for latent vectors will also be loaded from `/saved_files/checkpoints/` (was learning for 20k iterations).
 - Calculation of AP and F1 metrics, as well as building the confusion matrix for loaded checkpoints are in the train function in the `trainers/trainer.py` file.
 
